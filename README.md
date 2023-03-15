@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uttejkumarreddy
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Natural Language Processing and Reinforcement Learning.
-- 💞️ I’m looking to collaborate on projects involving improvement of natural language understanding. 
+- 👀 I’m interested in making applications beneficial to general public, especially students.
+- 🌱 I’m currently focusing on expanding my expertise in Artificial Intelligence (NLP, RL, ML, CV, Robotics). 
+- 💞️ I’m looking to collaborate on interesting projects in the field of AI. 
 - 📫 How to reach me ... Email me: uttejkumarreddy@gmail.com
 
 <!---
